@@ -1,0 +1,2 @@
+txt = "banana"
+x = txt 
